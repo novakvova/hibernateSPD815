@@ -1,7 +1,7 @@
 package emums;
 
 public enum QuestionType {
-    RUDIOB_UTTON,
+    RUDIO_BUTTON,
     CHECK_BOX,
     INPUT_TEXT
 }
